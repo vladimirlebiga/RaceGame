@@ -1,5 +1,3 @@
-![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
-
 # LAB | DOM Race Car
 
 ![Island Racer Logo](images/logo.png)
@@ -943,13 +941,13 @@ To make the game more competitive, add elements to shows the player's score and 
 
 ## Lab Solution
 
-You can find the complete solution code for the lab at: [dom-race-car](https://github.com/ironhack-labs/lesson-code-dom-race-car).
+You can find the complete solution code for the lab at: [dom-race-car]
 
 To clone the solution repository, run the following commands:
 
 ```shell
 # clone the repo
-git clone https://github.com/ironhack-labs/lesson-code-dom-race-car.git
+
 
 # navigate to the cloned repo
 cd lesson-code-dom-race-car
